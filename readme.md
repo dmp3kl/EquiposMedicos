@@ -22,18 +22,21 @@
 
 ### Las Tablas
 
-+ Criticidad -> criticalities
-+ Historial -> records
-+ Mantención -> maintenances
-+ Emmpresas -> companies
-+ Equipos -> equipments
-+ Nombres -> names
-+ Pabellón -> pavilions
-+ Usuario  -> staffs
-+ Ubicación -> locations
-+ Servicio -> services
-+ Adquisición -> purchases
-+ Repuesto -> replacements
-+ Estado -> states
-+ Periodicidad -> periodicities
-+ Tipo -> types
++ 1 Criticidad -> criticalities
++ 2 Historial -> records
++ 3 Mantención -> maintenances
++ 4 Emmpresas -> companies
++ 5 Equipos -> equipments
++ 6 Nombres -> names
++ 7 Pabellón -> pavilions
++ 8 Usuario  -> staffs
++ 9 Ubicación -> locations
++ 10 Servicio -> services
++ 11 Adquisición -> purchases
++ 12 Repuesto -> replacements
++ 13 Estado -> states
++ 14 Periodicidad -> periodicities
++ 15 Tipo -> types
+
+### Tablas de Unión
++
