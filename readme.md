@@ -39,4 +39,19 @@
 + 15 Tipo -> types
 
 ### Tablas de Unión
-+
++ criticality_equipment
++ company_maintenance
++ company_equipment
++ equipment_name
++ equipment_state
++ equipment_maintenance
++ equipment_periodicity
++ equipment_service
++ equipment_purchase
++ equipment_staff
++ equipment_record
++ location_service
++ maintenance_replacement
++ maintenance_type
++ maintenance_periodicity
++ pavilion_staff
