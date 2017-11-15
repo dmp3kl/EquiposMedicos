@@ -1,0 +1,210 @@
+@import 'normalize';
+@import 'bootstrap.min';
+@import 'metisMenu';
+@import 'sb-admin-2';
+@import 'font-awesome';
+@import 'google-fonts';
+@import 'ballon';
+
+
+/*--- $ Colores
+ --------------------------------------------------------*/
+.cgreen{
+    color: green;
+}
+.cred{
+    color:red;
+}
+
+.paginacion{
+    margin: 0px auto;
+    text-align: center;
+}
+
+/************** body *****************/
+body{
+	font-family: 'Open Sans';
+	font-size: 16px;
+
+}
+
+
+/****************User Profile  *********************/
+.user-row {
+    margin-bottom: 14px;
+}
+
+.user-row:last-child {
+    margin-bottom: 0;
+}
+
+.dropdown-user {
+    margin: 13px 0;
+    padding: 5px;
+}
+
+.dropdown-user:hover {
+    cursor: pointer;
+}
+
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+}
+.toppad
+{margin-top:20px;
+}
+
+
+/***** Gradiente ****/
+.gradiente{
+    height: 10px;
+    background: #466368;
+background: -webkit-linear-gradient(left, #009cb2, #b7d482);
+background: -o-linear-gradient(left, #009cb2, #b7d482);
+background: linear-gradient(to right, #009cb2, #b7d482);
+}
+
+.link-home{
+    color: black;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    font-weight: 300px;
+}
+
+.navbar-default{
+    font-size: 13px;
+}
+
+.nav > li > a{
+    padding: 5px 15px;
+}
+.us-admin{
+    padding: 15px 15px;   
+}
+
+.page-header{
+    margin: 5px 0px;
+}
+
+
+/****************
+* Tabla Ip
+*****************************************************************************/
+.tabla-ip{
+    width: 600px; 
+    margin: 0 auto;
+    font-size: 12px;
+    .ipid{width: 30px;}
+    .ipip{width: 150px;}
+    .ipestado{width: 50px;
+            text-align: center;
+    }
+    .ipacciones{width: 100px; text-align: center;}
+}
+
+/****************
+* Tabla Impresora
+*****************************************************************************/
+.tabla-impresora{
+    width: 700px; 
+    margin: 0 auto;
+    font-size: 12px;
+    .iid{width: 40px;}
+    .iip{width: 130px;}
+    .ihh{width: 110px;}
+    .imarca{width: 130px;}
+    .imodelo{width: 170px;}
+    .iacciones{text-align: center}
+}
+
+/****************
+* Tabla Sectores
+*****************************************************************************/
+.tabla-sectores{
+    width: 550px; 
+    margin: 0 auto;
+    font-size: 12px;
+    .sid{width: 20px}
+    .snombre{width: 100px}
+    .sacciones{width: 70px;
+        text-align: center}
+}
+
+/****************
+* Tabla Equipo
+*****************************************************************************/
+
+.tabla-equipos{
+    font-size: 12px;
+    .eid{width: 15px;}
+    .emac{width: 140px;}
+    .egroup{width: 120px;}
+    .erowl{width: 100px;}
+    .erow{width: 100px;
+        text-align: center;
+    }
+}
+
+/****************
+* Tabla Staff
+*****************************************************************************/
+.tabla-staff{
+    width: 700px; 
+    margin: 0 auto;
+    font-size: 11px;
+    .stid{width: 30px;}
+    .stmail{width: 250px;}
+    .stnombre{width: 490px;}
+    .ststatus{width: 50px;
+            text-align: center;
+    }
+    .stacciones{width: 100px; text-align: center;}
+}
+
+.detallestaff{
+    font-family: 'Open Sans';
+    font-size: 13px;
+}
+
+
+.statics{
+    margin: 30px 0px 0px 0px;
+    .estadistica{
+        float: left;
+        width: 100px;
+    }
+    .impresoras{
+        float: left;
+        width: 60px
+    }
+}
+
+.form-equipo{
+    width: 500px;
+    margin: 20px 0px 0px 30px;
+}
+
+.form-equipo{
+    font-size: 13px;
+    input{font-size: 12px;}
+    select{
+        option{
+            font-size: 12px;
+        }
+    }
+    button{margin-bottom: 30px;}
+}
+
+.lequipo{
+    margin: 7px 0 0 0;
+}
