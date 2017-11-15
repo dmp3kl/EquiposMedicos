@@ -33,6 +33,90 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.phpintel\/08c70aad6810189bf5dc03acdace2794": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/08c70aad6810189bf5dc03acdace2794",
+		"oF": 0
+		},
+	"\/.phpintel\/0dbf09574e1d9d2bba92daa57c87c1f8": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/0dbf09574e1d9d2bba92daa57c87c1f8",
+		"oF": 0
+		},
+	"\/.phpintel\/17bbdd7b8af75ab6bb03267d3b775524": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/17bbdd7b8af75ab6bb03267d3b775524",
+		"oF": 0
+		},
+	"\/.phpintel\/231636211fb058da17e4809c6648e8b0": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/231636211fb058da17e4809c6648e8b0",
+		"oF": 0
+		},
+	"\/.phpintel\/29ef17824540e3552337bcfc199e4ccf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/29ef17824540e3552337bcfc199e4ccf",
+		"oF": 0
+		},
+	"\/.phpintel\/3b6531c9323b066ccdbd8499a452d233": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/3b6531c9323b066ccdbd8499a452d233",
+		"oF": 0
+		},
+	"\/.phpintel\/6f57c98bf0b06f25f593642999e5e124": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/6f57c98bf0b06f25f593642999e5e124",
+		"oF": 0
+		},
+	"\/.phpintel\/740713b8cd536d6b14226e5b4e60008c": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/740713b8cd536d6b14226e5b4e60008c",
+		"oF": 0
+		},
+	"\/.phpintel\/946a9ea7990778aa6f6d339a401f2479": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/946a9ea7990778aa6f6d339a401f2479",
+		"oF": 0
+		},
+	"\/.phpintel\/a1833a0545102ec4c7baa35cce6bd615": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/a1833a0545102ec4c7baa35cce6bd615",
+		"oF": 0
+		},
+	"\/.phpintel\/a4bb308b809d3d7d6e7653e804af293a": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/a4bb308b809d3d7d6e7653e804af293a",
+		"oF": 0
+		},
+	"\/.phpintel\/cc81966c2b417b4502789bfefb8d8014": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/cc81966c2b417b4502789bfefb8d8014",
+		"oF": 0
+		},
+	"\/.phpintel\/d8794cdf485c0e7f8c6d6bb24aa6484d": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/d8794cdf485c0e7f8c6d6bb24aa6484d",
+		"oF": 0
+		},
+	"\/.phpintel\/index": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/index",
+		"oF": 0
+		},
 	"\/app\/Company.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -61,6 +145,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Exceptions\/Handler.php",
+		"oF": 0
+		},
+	"\/app\/Form.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Form.php",
 		"oF": 0
 		},
 	"\/app\/Http\/Controllers\/Auth\/ForgotPasswordController.php": {
@@ -447,6 +537,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/database\/migrations\/2017_11_15_020833_create_types_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_025235_create_forms_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_025235_create_forms_table.php",
 		"oF": 0
 		},
 	"\/database\/seeds\/DatabaseSeeder.php": {

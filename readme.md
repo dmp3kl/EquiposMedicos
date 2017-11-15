@@ -19,6 +19,7 @@
 + Staff
 + State
 + Type
++ Form
 
 ### Las Tablas
 
@@ -37,6 +38,7 @@
 + 13 Estado -> states
 + 14 Periodicidad -> periodicities
 + 15 Tipo -> types
++ 16 Formulario -> forms
 
 ### Tablas de Unión
 + criticality_equipment

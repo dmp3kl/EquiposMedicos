@@ -15,6 +15,9 @@ class CreateReplacementsTable extends Migration
     {
         Schema::create('replacements', function (Blueprint $table) {
             $table->increments('id');
+            $table->string('numero_parte');
+            $table->numeric('cantidad');
+            $table->string('descripcion');
             $table->timestamps();
         });
     }

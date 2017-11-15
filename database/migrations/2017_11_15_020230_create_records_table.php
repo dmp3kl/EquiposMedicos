@@ -15,6 +15,8 @@ class CreateRecordsTable extends Migration
     {
         Schema::create('records', function (Blueprint $table) {
             $table->increments('id');
+            $table->date('m_anterior');
+            $table->date('m_proxima');
             $table->timestamps();
         });
     }

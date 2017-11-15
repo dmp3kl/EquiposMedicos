@@ -15,6 +15,7 @@ class CreatePeriodicitiesTable extends Migration
     {
         Schema::create('periodicities', function (Blueprint $table) {
             $table->increments('id');
+            $table->string('name');
             $table->timestamps();
         });
     }

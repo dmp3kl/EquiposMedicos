@@ -15,6 +15,7 @@ class CreateCriticalitiesTable extends Migration
     {
         Schema::create('criticalities', function (Blueprint $table) {
             $table->increments('id');
+            $table->string('name');
             $table->timestamps();
         });
     }

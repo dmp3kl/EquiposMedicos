@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreatePavilionsTable extends Migration
+class CreateFormsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,10 +13,8 @@ class CreatePavilionsTable extends Migration
      */
     public function up()
     {
-        Schema::create('pavilions', function (Blueprint $table) {
+        Schema::create('forms', function (Blueprint $table) {
             $table->increments('id');
-            $table->datetime('fh_inicio');
-            $table->datetime('fh_termino');
             $table->timestamps();
         });
     }
@@ -28,6 +26,6 @@ class CreatePavilionsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('pavilions');
+        Schema::dropIfExists('forms');
     }
 }

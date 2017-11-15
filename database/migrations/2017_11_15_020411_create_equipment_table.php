@@ -13,8 +13,20 @@ class CreateEquipmentTable extends Migration
      */
     public function up()
     {
-        Schema::create('equipment', function (Blueprint $table) {
+        Schema::create('equipments', function (Blueprint $table) {
             $table->increments('id');
+            $table->string('codigo');
+            $table->string('marca');
+            $table->string('modelo');
+            $table->string('n_serie');
+            $table->date('fabricacion');
+            $table->date('f_ingreso');
+            $table->integer('vida_util');
+            $table->string('equipo_asociado');
+            $table->string('d_tecnico');
+            $table->string('observaciones');
+            $table->date('termino_garantia')
+            $table->integer('estato');
             $table->timestamps();
         });
     }
@@ -26,6 +38,6 @@ class CreateEquipmentTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('equipment');
+        Schema::dropIfExists('equipments');
     }
 }
