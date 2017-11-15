@@ -33,10 +33,28 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/app\/Company.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Company.php",
+		"oF": 0
+		},
 	"\/app\/Console\/Kernel.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Console\/Kernel.php",
+		"oF": 0
+		},
+	"\/app\/Criticality.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Criticality.php",
+		"oF": 0
+		},
+	"\/app\/Equipment.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment.php",
 		"oF": 0
 		},
 	"\/app\/Exceptions\/Handler.php": {
@@ -111,6 +129,36 @@
 		"oAP": "\/app\/Http\/Middleware\/VerifyCsrfToken.php",
 		"oF": 0
 		},
+	"\/app\/Location.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Location.php",
+		"oF": 0
+		},
+	"\/app\/Maintenance.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Maintenance.php",
+		"oF": 0
+		},
+	"\/app\/Name.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Name.php",
+		"oF": 0
+		},
+	"\/app\/Pavilion.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Pavilion.php",
+		"oF": 0
+		},
+	"\/app\/Periodicity.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Periodicity.php",
+		"oF": 0
+		},
 	"\/app\/Providers\/AppServiceProvider.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -139,6 +187,48 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Providers\/RouteServiceProvider.php",
+		"oF": 0
+		},
+	"\/app\/Purchase.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Purchase.php",
+		"oF": 0
+		},
+	"\/app\/Record.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Record.php",
+		"oF": 0
+		},
+	"\/app\/Replacement.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Replacement.php",
+		"oF": 0
+		},
+	"\/app\/Service.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Service.php",
+		"oF": 0
+		},
+	"\/app\/Staff.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Staff.php",
+		"oF": 0
+		},
+	"\/app\/State.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/State.php",
+		"oF": 0
+		},
+	"\/app\/Type.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Type.php",
 		"oF": 0
 		},
 	"\/app\/User.php": {
@@ -267,6 +357,96 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/database\/migrations\/2014_10_12_100000_create_password_resets_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020205_create_criticalities_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020205_create_criticalities_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020230_create_records_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020230_create_records_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020252_create_maintenances_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020252_create_maintenances_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020332_create_companies_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020332_create_companies_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020411_create_equipment_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020411_create_equipment_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020442_create_names_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020442_create_names_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020514_create_pavilions_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020514_create_pavilions_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020537_create_staff_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020537_create_staff_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020555_create_locations_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020555_create_locations_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020610_create_services_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020610_create_services_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020712_create_purchases_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020712_create_purchases_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020733_create_replacements_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020733_create_replacements_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020753_create_states_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020753_create_states_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020821_create_periodicities_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020821_create_periodicities_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_15_020833_create_types_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_15_020833_create_types_table.php",
 		"oF": 0
 		},
 	"\/database\/seeds\/DatabaseSeeder.php": {
@@ -422,6 +602,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/public\/web.config",
+		"oF": 0
+		},
+	"\/readme.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/readme.html",
 		"oF": 0
 		},
 	"\/readme.md": {
