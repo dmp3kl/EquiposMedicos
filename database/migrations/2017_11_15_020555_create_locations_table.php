@@ -13,6 +13,7 @@ class CreateLocationsTable extends Migration
      */
     public function up()
     {
+        // Ubicación directa del Equipo en cuestion
         Schema::create('locations', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

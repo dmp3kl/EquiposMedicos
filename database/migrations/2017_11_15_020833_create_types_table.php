@@ -13,6 +13,7 @@ class CreateTypesTable extends Migration
      */
     public function up()
     {
+        // Qué tipo de mantenciones se le hacen a los Equipo
         Schema::create('types', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

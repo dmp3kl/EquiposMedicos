@@ -13,6 +13,7 @@ class CreatePeriodicitiesTable extends Migration
      */
     public function up()
     {
+        // Cada cuanto se le hace mantención al Equipo
         Schema::create('periodicities', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

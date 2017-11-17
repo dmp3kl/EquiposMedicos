@@ -13,6 +13,7 @@ class CreateEquipmentTable extends Migration
      */
     public function up()
     {
+        // Los Equipos
         Schema::create('equipments', function (Blueprint $table) {
             $table->increments('id');
             $table->string('codigo');

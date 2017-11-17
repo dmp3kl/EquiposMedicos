@@ -13,6 +13,7 @@ class CreatePurchasesTable extends Migration
      */
     public function up()
     {
+        // Cómo se adquiere el Equipo que tiene la Clínica
         Schema::create('purchases', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

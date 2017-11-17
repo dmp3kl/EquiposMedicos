@@ -13,6 +13,7 @@ class CreateServicesTable extends Migration
      */
     public function up()
     {
+        // Los Servicios que tiene la Clínica a los que van los Equipo
         Schema::create('services', function (Blueprint $table) {
             $table->increments('id');
             $table->numeric('ceco');

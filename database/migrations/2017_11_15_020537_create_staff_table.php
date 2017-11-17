@@ -13,6 +13,7 @@ class CreateStaffTable extends Migration
      */
     public function up()
     {
+        // Las personas de la Clínica que a las que se les asignan los Equipos
         Schema::create('staffs', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

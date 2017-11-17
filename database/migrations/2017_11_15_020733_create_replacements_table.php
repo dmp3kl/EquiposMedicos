@@ -13,6 +13,7 @@ class CreateReplacementsTable extends Migration
      */
     public function up()
     {
+        // Repuestos que se compren para los Equipo
         Schema::create('replacements', function (Blueprint $table) {
             $table->increments('id');
             $table->string('numero_parte');

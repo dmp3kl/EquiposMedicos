@@ -13,6 +13,7 @@ class CreatePavilionsTable extends Migration
      */
     public function up()
     {
+        // Los pavellones a los que son asignados los Equipos
         Schema::create('pavilions', function (Blueprint $table) {
             $table->increments('id');
             $table->datetime('fh_inicio');

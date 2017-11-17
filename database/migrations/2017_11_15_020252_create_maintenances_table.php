@@ -13,6 +13,7 @@ class CreateMaintenancesTable extends Migration
      */
     public function up()
     {
+        // Mantenciones de los Equipos
         Schema::create('maintenances', function (Blueprint $table) {
             $table->increments('id');
             $table->string('orden_compra');

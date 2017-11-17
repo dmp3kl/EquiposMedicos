@@ -13,6 +13,7 @@ class CreateCompaniesTable extends Migration
      */
     public function up()
     {
+        // Compañias que venden los Equipos
         Schema::create('companies', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

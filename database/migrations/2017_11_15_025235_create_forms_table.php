@@ -13,6 +13,7 @@ class CreateFormsTable extends Migration
      */
     public function up()
     {
+        // Formulario de las personas a la Gaijin
         Schema::create('forms', function (Blueprint $table) {
             $table->increments('id');
             $table->timestamps();

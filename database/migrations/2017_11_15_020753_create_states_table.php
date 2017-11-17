@@ -13,6 +13,7 @@ class CreateStatesTable extends Migration
      */
     public function up()
     {
+        // El estado actual del Equipo
         Schema::create('states', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

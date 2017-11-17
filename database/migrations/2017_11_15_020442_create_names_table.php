@@ -13,6 +13,7 @@ class CreateNamesTable extends Migration
      */
     public function up()
     {
+        // Los nombres que tienen los Equipos, esto porque se pueden repetir
         Schema::create('names', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');

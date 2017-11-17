@@ -13,6 +13,7 @@ class CreateRecordsTable extends Migration
      */
     public function up()
     {
+        // Historial de los equipos
         Schema::create('records', function (Blueprint $table) {
             $table->increments('id');
             $table->date('m_anterior');
