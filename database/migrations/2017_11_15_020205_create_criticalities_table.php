@@ -13,6 +13,7 @@ class CreateCriticalitiesTable extends Migration
      */
     public function up()
     {
+        // Criticidad del Equipo
         Schema::create('criticalities', function (Blueprint $table) {
             $table->increments('id');
             $table->string('name');
