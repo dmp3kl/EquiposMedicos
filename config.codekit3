@@ -33,6 +33,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.phpintel\/00f9980968b27ccb29cd4773a1e3c6a1": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/00f9980968b27ccb29cd4773a1e3c6a1",
+		"oF": 0
+		},
 	"\/.phpintel\/08c70aad6810189bf5dc03acdace2794": {
 		"ft": 8192,
 		"oA": 2,
@@ -63,10 +69,28 @@
 		"oAP": "\/.phpintel\/29ef17824540e3552337bcfc199e4ccf",
 		"oF": 0
 		},
+	"\/.phpintel\/388b7815faf9cc1a46e3f24cffd837d1": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/388b7815faf9cc1a46e3f24cffd837d1",
+		"oF": 0
+		},
 	"\/.phpintel\/3b6531c9323b066ccdbd8499a452d233": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/3b6531c9323b066ccdbd8499a452d233",
+		"oF": 0
+		},
+	"\/.phpintel\/3f24f358a8f3fc2070fcebd99d2bb937": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/3f24f358a8f3fc2070fcebd99d2bb937",
+		"oF": 0
+		},
+	"\/.phpintel\/4fd1b892646a517d6c2636543eb68cdc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/4fd1b892646a517d6c2636543eb68cdc",
 		"oF": 0
 		},
 	"\/.phpintel\/6f57c98bf0b06f25f593642999e5e124": {
@@ -87,10 +111,40 @@
 		"oAP": "\/.phpintel\/7dea47bd0737c2c7460f06c4753cf4a2",
 		"oF": 0
 		},
+	"\/.phpintel\/8d2480ac6ea96d786f2e555f2fc5f105": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/8d2480ac6ea96d786f2e555f2fc5f105",
+		"oF": 0
+		},
+	"\/.phpintel\/8e6cf04328aa431cb2461d0a5798f3e3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/8e6cf04328aa431cb2461d0a5798f3e3",
+		"oF": 0
+		},
+	"\/.phpintel\/8f6df58c79b861b00355d504b0bf2af6": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/8f6df58c79b861b00355d504b0bf2af6",
+		"oF": 0
+		},
 	"\/.phpintel\/946a9ea7990778aa6f6d339a401f2479": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/946a9ea7990778aa6f6d339a401f2479",
+		"oF": 0
+		},
+	"\/.phpintel\/99d673e7d3cd2f37d2afb76751961c29": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/99d673e7d3cd2f37d2afb76751961c29",
+		"oF": 0
+		},
+	"\/.phpintel\/9e0add46569830aa9695343403095219": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/9e0add46569830aa9695343403095219",
 		"oF": 0
 		},
 	"\/.phpintel\/a1833a0545102ec4c7baa35cce6bd615": {
@@ -103,6 +157,24 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/a4bb308b809d3d7d6e7653e804af293a",
+		"oF": 0
+		},
+	"\/.phpintel\/a56aba617f38cc2bf5541d42a43cb1f7": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/a56aba617f38cc2bf5541d42a43cb1f7",
+		"oF": 0
+		},
+	"\/.phpintel\/a7b8a68d6249ef7cc32607bc0ad54a8d": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/a7b8a68d6249ef7cc32607bc0ad54a8d",
+		"oF": 0
+		},
+	"\/.phpintel\/b18054338a95a3339f42908af0cbeda2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/b18054338a95a3339f42908af0cbeda2",
 		"oF": 0
 		},
 	"\/.phpintel\/c306f2e02294cc0a4bfaba8652635442": {
@@ -147,6 +219,12 @@
 		"oAP": "\/app\/Company.php",
 		"oF": 0
 		},
+	"\/app\/Company_Maintenance.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Company_Maintenance.php",
+		"oF": 0
+		},
 	"\/app\/Console\/Kernel.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -159,10 +237,64 @@
 		"oAP": "\/app\/Criticality.php",
 		"oF": 0
 		},
+	"\/app\/Criticality_Equipment.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Criticality_Equipment.php",
+		"oF": 0
+		},
 	"\/app\/Equipment.php": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Equipment.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_Company.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_Company.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_Maintenance.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_Maintenance.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_Model.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_Model.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_Name.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_Name.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_Periodicity.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_Periodicity.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_Service.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_Service.php",
+		"oF": 0
+		},
+	"\/app\/equipment_staff.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/equipment_staff.php",
+		"oF": 0
+		},
+	"\/app\/Equipment_State.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Equipment_State.php",
 		"oF": 0
 		},
 	"\/app\/Exceptions\/Handler.php": {
@@ -265,6 +397,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Pavilion.php",
+		"oF": 0
+		},
+	"\/app\/pavillion_staff.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/pavillion_staff.php",
 		"oF": 0
 		},
 	"\/app\/Periodicity.php": {
@@ -567,6 +705,66 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/database\/migrations\/2017_11_15_025235_create_forms_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_004352_create_criticality__equipments_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_004352_create_criticality__equipments_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_004543_create_company__maintenances_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_004543_create_company__maintenances_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_004734_create_pavillion_staffs_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_004734_create_pavillion_staffs_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_004920_create_equipment_staffs_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_004920_create_equipment_staffs_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_005120_create_equipment__companies_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_005120_create_equipment__companies_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_005331_create_equipment__names_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_005331_create_equipment__names_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_005506_create_equipment__states_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_005506_create_equipment__states_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_005606_create_equipment__maintenances_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_005606_create_equipment__maintenances_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_005715_create_equipment__periodicities_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_005715_create_equipment__periodicities_table.php",
+		"oF": 0
+		},
+	"\/database\/migrations\/2017_11_17_010002_create_equipment__services_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_010002_create_equipment__services_table.php",
 		"oF": 0
 		},
 	"\/database\/seeds\/DatabaseSeeder.php": {

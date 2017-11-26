@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateFormsTable extends Migration
+class CreateCompanyMaintenancesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,13 +13,10 @@ class CreateFormsTable extends Migration
      */
     public function up()
     {
-        // Formulario de las personas a la Gaijin
-        Schema::create('forms', function (Blueprint $table) {
+        Schema::create('company_maintenance', function (Blueprint $table) {
             $table->increments('id');
-            $table->datetime('fecha');
-            $table->string('nomresponsable');
-            $table->integer('services_id');
-            $table->longText('descripcion');
+            $table->integer('company_id');
+            $table->integer('maintenance_id');
             $table->timestamps();
         });
     }
@@ -31,6 +28,6 @@ class CreateFormsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('forms');
+        Schema::dropIfExists('company_maintenance');
     }
 }
