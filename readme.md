@@ -4,9 +4,9 @@
 
 ### Apps
 
-+ *Guzzlehttp*
-+ *Datatables*
-+ *Carbon*: Manejo de fechas 
++ **Guzzlehttp**: envio de correo.
++ **Datatables**: manejo de tablas.
++ **Carbon**: Manejo de fechas. 
 
 ### Modelos
 + Company
