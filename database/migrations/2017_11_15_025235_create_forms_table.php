@@ -16,10 +16,12 @@ class CreateFormsTable extends Migration
         // Formulario de las personas a la Gaijin
         Schema::create('forms', function (Blueprint $table) {
             $table->increments('id');
-            $table->datetime('fecha');
+            $table->date('fecha_ingreso');
+            $table->date('fecha_termino');
             $table->string('nomresponsable');
             $table->integer('services_id');
             $table->longText('descripcion');
+            $table->integer('importancia');
             $table->timestamps();
         });
     }
