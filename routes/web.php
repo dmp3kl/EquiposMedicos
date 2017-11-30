@@ -19,17 +19,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-
-$data = [
-	'titulo' => 'Requerimiento',
-	'sujeto' => 'Sebastián Miranda',
-	'fecha' => '20-11-2017',
-	'area' => 'Informática',
-	'content' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. .'
-
-];
-
-
-    Mail::send('Form.mail', $data, function($message){
-    	$message->to('se.miranda86@gmail.com', 'Sebastian')->subject('Solicitud');
-    });
+Route::get('administracion/formulario/', 'FormController@index')->name('formularioIndex');

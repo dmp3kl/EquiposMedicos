@@ -93,6 +93,12 @@
 		"oAP": "\/.phpintel\/17bbdd7b8af75ab6bb03267d3b775524",
 		"oF": 0
 		},
+	"\/.phpintel\/19496eeb181750bba10e04ebc58b92d8": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/19496eeb181750bba10e04ebc58b92d8",
+		"oF": 0
+		},
 	"\/.phpintel\/1b99171bc0cfa96eb0b472edeebe76b7": {
 		"ft": 8192,
 		"oA": 2,
@@ -133,6 +139,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/4fd1b892646a517d6c2636543eb68cdc",
+		"oF": 0
+		},
+	"\/.phpintel\/636eb9e00f2fe979d2d679af224ac10f": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/636eb9e00f2fe979d2d679af224ac10f",
 		"oF": 0
 		},
 	"\/.phpintel\/6f57c98bf0b06f25f593642999e5e124": {
@@ -427,6 +439,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Http\/Controllers\/Controller.php",
+		"oF": 0
+		},
+	"\/app\/Http\/Controllers\/FormController.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Http\/Controllers\/FormController.php",
 		"oF": 0
 		},
 	"\/app\/Http\/Controllers\/HomeController.php": {
@@ -1250,6 +1268,12 @@
 		"oAP": "\/resources\/views\/auth\/register.blade.php",
 		"oF": 0
 		},
+	"\/resources\/views\/Form\/formulario.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/Form\/formulario.blade.php",
+		"oF": 0
+		},
 	"\/resources\/views\/Form\/mail.blade.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1386,6 +1410,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storage\/framework\/views\/81c5008cbf8e4f11518ba2c45aab837ab3e8e9a8.php",
+		"oF": 0
+		},
+	"\/storage\/framework\/views\/9a6ac844d8590d59d2a84f9803323d7d6f6ea821.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storage\/framework\/views\/9a6ac844d8590d59d2a84f9803323d7d6f6ea821.php",
 		"oF": 0
 		},
 	"\/storage\/logs": {
