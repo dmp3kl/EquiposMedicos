@@ -26,8 +26,8 @@ class CreateEquipmentTable extends Migration
             $table->string('equipo_asociado');
             $table->string('d_tecnico');
             $table->string('observaciones');
-            $table->date('termino_garantia')
-            $table->integer('estato');
+            $table->date('termino_garantia');
+            $table->integer('estado');
             $table->timestamps();
         });
     }

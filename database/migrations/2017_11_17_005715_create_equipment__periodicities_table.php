@@ -13,7 +13,7 @@ class CreateEquipmentPeriodicitiesTable extends Migration
      */
     public function up()
     {
-        Schema::create('equipment_periodicy', function (Blueprint $table) {
+        Schema::create('equipment_periodicity', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('equipment_id');
             $table->integer('periodicity_id');

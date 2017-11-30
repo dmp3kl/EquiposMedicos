@@ -26,7 +26,7 @@
 + 1 Criticidad -> criticalities
 + 2 Historial -> records
 + 3 Mantención -> maintenances
-+ 4 Emmpresas -> companies
++ 4 Empresas -> companies
 + 5 Equipos -> equipments
 + 6 Nombres -> names
 + 7 Pabellón -> pavilions
