@@ -81,6 +81,12 @@
 		"oAP": "\/.phpintel\/0dbf09574e1d9d2bba92daa57c87c1f8",
 		"oF": 0
 		},
+	"\/.phpintel\/10bfcf769188549db4226cb1aef57265": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/10bfcf769188549db4226cb1aef57265",
+		"oF": 0
+		},
 	"\/.phpintel\/17bbdd7b8af75ab6bb03267d3b775524": {
 		"ft": 8192,
 		"oA": 2,
@@ -237,6 +243,12 @@
 		"oAP": "\/.phpintel\/c306f2e02294cc0a4bfaba8652635442",
 		"oF": 0
 		},
+	"\/.phpintel\/c5f0674172eefffc242397c41aa1fbd8": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/c5f0674172eefffc242397c41aa1fbd8",
+		"oF": 0
+		},
 	"\/.phpintel\/cc81966c2b417b4502789bfefb8d8014": {
 		"ft": 8192,
 		"oA": 2,
@@ -259,6 +271,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/f1b254e669eca6ffe3baa42146e7df04",
+		"oF": 0
+		},
+	"\/.phpintel\/f32d25ac80309ca9e851e3773abd3724": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/f32d25ac80309ca9e851e3773abd3724",
 		"oF": 0
 		},
 	"\/.phpintel\/f525295124c79edf4ccd005b5d2761f2": {
@@ -1226,6 +1244,12 @@
 		"oAP": "\/resources\/views\/home.blade.php",
 		"oF": 0
 		},
+	"\/resources\/views\/layouts\/admin.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/layouts\/admin.blade.php",
+		"oF": 0
+		},
 	"\/resources\/views\/layouts\/app.blade.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1332,6 +1356,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/storage\/framework\/views\/5f5b4f289542838b9b37e023e0fe2ca444de3438.php",
+		"oF": 0
+		},
+	"\/storage\/framework\/views\/81c5008cbf8e4f11518ba2c45aab837ab3e8e9a8.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/storage\/framework\/views\/81c5008cbf8e4f11518ba2c45aab837ab3e8e9a8.php",
 		"oF": 0
 		},
 	"\/storage\/logs": {

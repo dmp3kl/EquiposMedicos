@@ -13,7 +13,7 @@ class CreateEquipmentMaintenancesTable extends Migration
      */
     public function up()
     {
-        Schema::create('equipment__maintenances', function (Blueprint $table) {
+        Schema::create('equipment_maintenances', function (Blueprint $table) {
             $table->increments('id');
             $table->integer('equipment_id');
             $table->integer('maintenance_id');
@@ -28,6 +28,6 @@ class CreateEquipmentMaintenancesTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('equipment__maintenances');
+        Schema::dropIfExists('equipment_maintenances');
     }
 }
