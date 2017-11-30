@@ -2,6 +2,11 @@
 
 # Aplicación Equipos Médidos
 
+### Apps
+
++ *Guzzlehttp*
++ *Datatables*
++ *Carbon*: Manejo de fechas 
 
 ### Modelos
 + Company
