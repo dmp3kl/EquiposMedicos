@@ -33,6 +33,36 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/.idea\/appgaijin.iml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/appgaijin.iml",
+		"oF": 0
+		},
+	"\/.idea\/blade.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/blade.xml",
+		"oF": 0
+		},
+	"\/.idea\/modules.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/modules.xml",
+		"oF": 0
+		},
+	"\/.idea\/vcs.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/vcs.xml",
+		"oF": 0
+		},
+	"\/.idea\/workspace.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.idea\/workspace.xml",
+		"oF": 0
+		},
 	"\/.phpintel\/00f9980968b27ccb29cd4773a1e3c6a1": {
 		"ft": 8192,
 		"oA": 2,
@@ -109,6 +139,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/7dea47bd0737c2c7460f06c4753cf4a2",
+		"oF": 0
+		},
+	"\/.phpintel\/7f62856bc506e44640be322fddb41c87": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/7f62856bc506e44640be322fddb41c87",
 		"oF": 0
 		},
 	"\/.phpintel\/8d2480ac6ea96d786f2e555f2fc5f105": {
@@ -205,6 +241,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.phpintel\/f1b254e669eca6ffe3baa42146e7df04",
+		"oF": 0
+		},
+	"\/.phpintel\/f525295124c79edf4ccd005b5d2761f2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.phpintel\/f525295124c79edf4ccd005b5d2761f2",
 		"oF": 0
 		},
 	"\/.phpintel\/index": {
@@ -337,6 +379,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/app\/Http\/Controllers\/Controller.php",
+		"oF": 0
+		},
+	"\/app\/Http\/Controllers\/HomeController.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/app\/Http\/Controllers\/HomeController.php",
 		"oF": 0
 		},
 	"\/app\/Http\/Kernel.php": {
@@ -737,6 +785,12 @@
 		"oAP": "\/database\/migrations\/2017_11_17_005120_create_equipment__companies_table.php",
 		"oF": 0
 		},
+	"\/database\/migrations\/2017_11_17_005302_create_equipment__models_table.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/database\/migrations\/2017_11_17_005302_create_equipment__models_table.php",
+		"oF": 0
+		},
 	"\/database\/migrations\/2017_11_17_005331_create_equipment__names_table.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -1122,6 +1176,42 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/resources\/lang\/en\/validation.php",
+		"oF": 0
+		},
+	"\/resources\/views\/auth\/login.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/auth\/login.blade.php",
+		"oF": 0
+		},
+	"\/resources\/views\/auth\/passwords\/email.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/auth\/passwords\/email.blade.php",
+		"oF": 0
+		},
+	"\/resources\/views\/auth\/passwords\/reset.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/auth\/passwords\/reset.blade.php",
+		"oF": 0
+		},
+	"\/resources\/views\/auth\/register.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/auth\/register.blade.php",
+		"oF": 0
+		},
+	"\/resources\/views\/home.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/home.blade.php",
+		"oF": 0
+		},
+	"\/resources\/views\/layouts\/app.blade.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/resources\/views\/layouts\/app.blade.php",
 		"oF": 0
 		},
 	"\/resources\/views\/welcome.blade.php": {
@@ -41007,6 +41097,218 @@
 		"oA": 2,
 		"oAP": "\/vendor\/webmozart\/assert\/tests\/AssertTest.php",
 		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/.styleci.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/.styleci.yml",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/CHANGELOG.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/CONDUCT.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/CONDUCT.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/LICENSE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/LICENSE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/phpunit.xml.dist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/phpunit.xml.dist",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/CollectionDataTable.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/CollectionDataTable.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/config\/datatables.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/config\/datatables.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Contracts\/DataTable.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Contracts\/DataTable.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/DataTableAbstract.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/DataTableAbstract.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/DataTables.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/DataTables.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/DataTablesServiceProvider.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/DataTablesServiceProvider.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/EloquentDataTable.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/EloquentDataTable.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Exceptions\/Exception.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Exceptions\/Exception.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Facades\/DataTables.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Facades\/DataTables.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/helper.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/helper.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/lumen.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/lumen.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Processors\/DataProcessor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Processors\/DataProcessor.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Processors\/RowProcessor.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Processors\/RowProcessor.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/QueryDataTable.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/QueryDataTable.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Utilities\/Config.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Utilities\/Config.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Utilities\/Helper.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Utilities\/Helper.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/src\/Utilities\/Request.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/src\/Utilities\/Request.php",
+		"oF": 0
+		},
+	"\/vendor\/yajra\/laravel-datatables-oracle\/UPGRADE.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/vendor\/yajra\/laravel-datatables-oracle\/UPGRADE.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/webpack.mix.js": {
 		"ft": 64,
